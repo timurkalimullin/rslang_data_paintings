@@ -1,4 +1,4 @@
-const paintings = [
+[
   {
     id: '1_01',
     name: 'Stag Hunt',
