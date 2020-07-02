@@ -1672,5 +1672,3 @@
     year: '1638',
   },
 ];
-
-export default paintings;
